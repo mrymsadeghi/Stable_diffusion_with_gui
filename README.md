@@ -17,4 +17,6 @@ or you can use \
 4. Run the app.py file to run Ambia
 
 
+## A view of the GUI
+
 ![Stable diffusion gui](gui/gui_img_1.png)
